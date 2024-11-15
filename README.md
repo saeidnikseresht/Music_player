@@ -3,9 +3,7 @@
 #🤞 Great header 🤞
 
 **Complex but very skillful
- ![Screenshot 2024-10-04 012843](https://github.com/user-attachments/assets/e77a2f0f-4b13-499f-aeea-2c2b5ca84645)
  
-
 ![Screenshot 2024-11-16 000805](https://github.com/user-attachments/assets/ee340fbe-20cd-4077-9342-e40c59bf2261)
 
 
@@ -13,7 +11,9 @@
 
 
 
-![Screenshot 2024-10-04 024711](https://github.com/user-attachments/assets/6c27a5d0-b4b8-4b14-a1a9-134a48d8b205)
+![Screenshot 2024-11-16 000845](https://github.com/user-attachments/assets/7556e11a-b28b-47a5-9b01-1d9cb06354a3)
+
+
                                                                                                                 
 - [Demo Project](https://saeidnikseresht.github.io/Spectacular-project/)
 
