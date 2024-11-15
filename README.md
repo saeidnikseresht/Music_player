@@ -15,7 +15,7 @@
 
 
                                                                                                                 
-- [Demo Project](https://saeidnikseresht.github.io/Spectacular-project/)
+- [Demo Project](https://saeidnikseresht.github.io/Music_player/)
 
 - Developed by 👨‍💻saeid nikseresht👨‍💻
 
